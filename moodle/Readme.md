@@ -20,5 +20,8 @@ Procedura instalacji:
 ---
 
 W razie potrzeby prosimy o kontakt:
+
+```
 Adam Jurkiewicz
 adam (at) jurkiewicz (dot) tech
+```
