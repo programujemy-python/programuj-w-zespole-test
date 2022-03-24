@@ -1,4 +1,7 @@
 # dodajemy własne przyciski
+# https://www.flaticon.com/free-icon/boarding-pass_1257332
+# attribution: 'image: Flaticon.com'. This cover has been designed using resources from Flaticon.com
+
 # wczytujemy niezbędne elementy
 import PySimpleGUI as sg
 
