@@ -8,3 +8,9 @@ Testowanie produktu - przeprowadzenie zajęć z dziećmi w celu weryfikacji, czy
 ## zainteresownych prosimy o kontakt mailowy:
 
 ### programuj-w-zespole-test@abixedukacja.eu
+
+---
+
+#### Uwaga techniczna:
+Jeśli potrzebujecie, na czas testowania możemy wypożyczyć serwer aplikacji oparty o system Linux, który umożliwia start komputerów w pracowni z systemem Linux od razu, z pominięciem VirtualBox.
+Niezbędne do tego jest posiadanie okablowania Ethernet, BIOS z opcją PXE. W sieci NIE może być żadnego serwera SBS Microsoftu czy innego oferującego start komputerów z PXE.
